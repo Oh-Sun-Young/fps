@@ -17,9 +17,4 @@
 > **다운로드**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[구글스토어 바로가기](https://play.google.com/store/apps/details?id=com.OhSunYoung.SURVIVALRECORD "생존 기록 : SURVIVAL RECORD - Google Play 앱")
 
 ## 실행 화면
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/8d498ae6-283a-416c-922e-166e671cd1ea" style="max-width:100%;width:500px" title="게임 시작 화면" alt="게임 시작 화면" />
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/7706b584-178c-444c-a933-c388810ba7d8" style="max-width:100%;width:500px" title="게임 스토리 및 미션 소개 화면" alt="게임 스토리 및 미션 소개 화면" />
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/56eec644-fadd-49c4-b5f1-a6fc773678c5" style="max-width:100%;width:500px" title="적과 싸우는 3인칭 시점의 게임 메인 화면" alt="적과 싸우는 3인칭 시점의 게임 메인 화면" />
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/c6ba7419-0cdc-4257-8001-18462acd9d13" style="max-width:100%;width:500px" title="경고창이 나타나는 1인칭 시점의 게임 메인 화면" alt="경고창이 나타나는 1인칭 시점의 게임 메인 화면" />
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/b3c49c9a-243e-46b3-8f1b-13ae67ebb635" style="max-width:100%;width:500px" title="게임 종료 화면" alt="게임 종료 화면" />
-<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/c809e964-fb21-415a-ba17-ee61e24634ba" style="max-width:100%;width:500px" title="플레이한 데이터를 보여주는 게임 결과 화면" alt="플레이한 데이터를 보여주는 게임 결과 화면" />
+<img src="https://github.com/Oh-Sun-Young/fps/assets/115194619/cf095e2c-adae-4e86-9b2b-5373b582bf06" style="width:100%" title="생존 기록 실행 화면" alt="생존 기록 실행 화면" />
